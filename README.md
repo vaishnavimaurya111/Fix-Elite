@@ -1,93 +1,77 @@
+Here’s a **short, clean, hackathon-ready GitHub README** 👇
 
- 🚀 FixNow – On-Demand Home Services Platform
+---
 
-🔗 Live UI Prototype: https://photo-trunk-13123499.figma.site/
+# 🚀 FixNow – On-Demand Home Services Platform
 
-📌 Overview
+🔗 **Live UI:** [https://photo-trunk-13123499.figma.site/](https://photo-trunk-13123499.figma.site/)
 
-FixNow is an on-demand home services platform that connects users with trusted professionals like plumbers, electricians, and repair workers in real time.
+---
 
-The platform ensures fast booking, transparent pricing, and reliable service, especially during emergencies.
+## 📌 Overview
 
-🚨 Problem
-❌ Hard to find trusted service providers
-❌ No clear pricing → risk of overcharging
-❌ Delays in urgent situations (leakage, wiring issues)
-✅ Solution
+FixNow connects users with **trusted plumbers, electricians, and repair workers** for quick and reliable home services.
 
-FixNow provides a simple and smart solution:
+---
 
-🔍 Instantly find nearby workers
-💰 Get price estimates before booking
-⭐ View ratings & reviews
-📍 Track worker location in real time
+## 🚨 Problem
 
+* Hard to find trusted workers
+* No price transparency
+* Delays in emergencies
 
-✨ Features
-🚀 Core Features
-Service Booking (Plumber, Electrician, etc.)
-Nearby Worker Finder
-Price Estimation
-Ratings & Reviews
-Instant / Scheduled Booking
+---
 
+## ✅ Solution
 
-🔥 Advanced Features
-🤖 AI Problem Analyzer
-Understands user issue from text
-Suggests service + cost estimate
-📸 Image Upload Detection
-Upload image → detect issue
+* 🔍 Find nearby service providers
+* 💰 Get price estimates
+* ⭐ View ratings & reviews
+* 📍 Track worker live
 
+---
 
-🚨 Emergency Mode
-Priority booking for urgent needs
+## ✨ Features
 
-📍 Live Tracking (Simulated)
-Track worker in real time
+* Service Booking
+* Nearby Worker Finder
+* Price Estimation
+* Ratings & Reviews
+* Emergency Mode 🚨
+* AI Problem Analyzer 🤖
+* Live Tracking 📍
+* Digital Invoice 🧾
 
-🧾 Digital Invoice
-Auto-generated bill after service
+---
 
-🛠️ Tech Stack
-Frontend: HTML, CSS, JavaScript / React
-Backend: Node.js / Supabase
-Database: Firebase / Supabase
-AI: OpenAI API
-Maps: Google Maps API
+## 🛠️ Tech Stack
 
+* Frontend: HTML, CSS, JS
+* Backend: Node.js / Supabase
+* Database: Firebase / Supabase
+* AI: OpenAI API
+* Maps: Google Maps API
 
-🏗️ Architecture
-User → Frontend → Backend → Database
-                    ↓
-                 AI API
-                    ↓
-               Maps API
+---
 
-               
-⚙️ How It Works
-User enters problem (text/image)
-AI analyzes issue
-Suggests service + price
-User books worker
-Tracks worker live
-Service completed → invoice generated
+## ⚙️ How It Works
 
-🎯 Why This Project Stands Out
-💡 Real-world problem solving
-🤖 AI-powered smart suggestions
-⚡ Fast and simple user experience
-📈 Highly scalable solution
-🎤 Demo Flow
-Enter: “Water leaking from sink”
-AI suggests plumber + cost
-Book service
-Track worker
-View invoice
+1. Enter problem
+2. AI suggests service + cost
+3. Book worker
+4. Track service
+5. Get invoice
 
-🔮 Future Scope
-🌐 Multi-language support
-🎤 Voice-based booking
-📍 Real-time availability tracking
-📦 Service provider onboarding system
-  
+---
+
+## 🎯 Impact
+
+* Solves real-world problem
+* Fast, reliable, and scalable
+
+---
+
+## ⭐ Support
+
+Give a ⭐ if you like this project!
+
