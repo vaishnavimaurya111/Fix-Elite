@@ -47,8 +47,8 @@ FixNow connects users with **trusted plumbers, electricians, and repair workers*
 ## 🛠️ Tech Stack
 
 * Frontend: HTML, CSS, JS
-* Backend: Node.js / Supabase
-* Database: Firebase / Supabase
+* Backend: Node.js / Mongodb
+* Database: Mongodb
 * AI: OpenAI API
 * Maps: Google Maps API
 
