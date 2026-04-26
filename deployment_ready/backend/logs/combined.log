@@ -22,3 +22,6 @@
 {"level":"info","message":"Server running in development mode on port 5000","timestamp":"2026-04-26 21:44:14"}
 {"level":"warn","message":"Failed to connect to mongodb+srv://vaishnavijaiswal2006_db_user:MongoDB123@eliteher.f2tra4h.mongodb.net/?appName=EliteHer. Starting in-memory MongoDB instead...","timestamp":"2026-04-26 21:44:14"}
 {"level":"info","message":"In-Memory MongoDB connected: 127.0.0.1","timestamp":"2026-04-26 21:44:15"}
+{"level":"info","message":"Server running in development mode on port 5000","timestamp":"2026-04-26 21:44:49"}
+{"level":"warn","message":"Failed to connect to mongodb+srv://vaishnavijaiswal2006_db_user:MongoDB123@eliteher.f2tra4h.mongodb.net/?appName=EliteHer. Error: querySrv ECONNREFUSED _mongodb._tcp.eliteher.f2tra4h.mongodb.net. Starting in-memory MongoDB instead...","timestamp":"2026-04-26 21:44:49"}
+{"level":"info","message":"In-Memory MongoDB connected: 127.0.0.1","timestamp":"2026-04-26 21:44:50"}
