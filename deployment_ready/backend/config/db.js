@@ -8,7 +8,7 @@ const connectDB = async () => {
     const conn = await mongoose.connect(process.env.MONGO_URI);
     logger.info(`MongoDB connected: ${conn.connection.host}`);
   } catch (error) {
-    logger.warn(`Failed to connect to ${process.env.MONGO_URI}. Starting in-memory MongoDB instead...`);
+    logger.warn(`Failed to connect to ${process.env.MONGO_URI}. Error: ${error.message}. Starting in-memory MongoDB instead...`);
     try {
       const mongoServer = await MongoMemoryServer.create();
       const mongoUri = mongoServer.getUri();

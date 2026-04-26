@@ -14,3 +14,11 @@
 {"level":"info","message":"MongoDB connected: localhost","timestamp":"2026-04-25 23:34:05"}
 {"level":"info","message":"Server running in development mode on port 5000","timestamp":"2026-04-25 23:34:21"}
 {"level":"info","message":"MongoDB connected: localhost","timestamp":"2026-04-25 23:34:21"}
+{"level":"info","message":"Server running in development mode on port 5000","timestamp":"2026-04-26 19:47:52"}
+{"level":"info","message":"MongoDB connected: localhost","timestamp":"2026-04-26 19:47:52"}
+{"level":"info","message":"Server running in development mode on port 5000","timestamp":"2026-04-26 21:40:49"}
+{"level":"warn","message":"Failed to connect to mongodb+srv://vaishnavijaiswal2006_db_user:MongoDB123@eliteher.f2tra4h.mongodb.net/?appName=EliteHer. Starting in-memory MongoDB instead...","timestamp":"2026-04-26 21:40:49"}
+{"level":"info","message":"In-Memory MongoDB connected: 127.0.0.1","timestamp":"2026-04-26 21:40:50"}
+{"level":"info","message":"Server running in development mode on port 5000","timestamp":"2026-04-26 21:44:14"}
+{"level":"warn","message":"Failed to connect to mongodb+srv://vaishnavijaiswal2006_db_user:MongoDB123@eliteher.f2tra4h.mongodb.net/?appName=EliteHer. Starting in-memory MongoDB instead...","timestamp":"2026-04-26 21:44:14"}
+{"level":"info","message":"In-Memory MongoDB connected: 127.0.0.1","timestamp":"2026-04-26 21:44:15"}
